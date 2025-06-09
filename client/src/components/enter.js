@@ -53,7 +53,7 @@ export default function Enter() {
 
             <form onSubmit={handleSubmit(submit)} style={{ textAlign: 'center' }}>
                 <p>
-                    <h1>Welcome to our site!</h1>
+                    <h1>Welcome to our site!!</h1>
                     <h3>
                         We are happy to provide you with the best service.
                     </h3>
